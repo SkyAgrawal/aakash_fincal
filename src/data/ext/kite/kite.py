@@ -1,0 +1,2 @@
+class KiteApi:
+    pass
